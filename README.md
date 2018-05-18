@@ -1,4 +1,4 @@
 # app-MovieInfo
 
 
-![new-appmovie](https://user-images.githubusercontent.com/16745006/40240308-e9e38376-5ad5-11e8-8fce-bd0e08f5680d.gif)
+![ezgif com-crop](https://user-images.githubusercontent.com/16745006/40240544-612feee2-5ad6-11e8-99d1-6d6e5cb6e9a9.gif)
